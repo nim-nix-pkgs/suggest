@@ -10,7 +10,7 @@
   inputs.src-suggest-v1_1.flake = false;
   inputs.src-suggest-v1_1.ref   = "refs/tags/v1.1";
   inputs.src-suggest-v1_1.owner = "c-blake";
-  inputs.src-suggest-v1_1.repo  = "suggest.git";
+  inputs.src-suggest-v1_1.repo  = "suggest";
   inputs.src-suggest-v1_1.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";

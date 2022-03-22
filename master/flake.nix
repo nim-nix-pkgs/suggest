@@ -10,7 +10,7 @@
   inputs.src-suggest-master.flake = false;
   inputs.src-suggest-master.ref   = "refs/heads/master";
   inputs.src-suggest-master.owner = "c-blake";
-  inputs.src-suggest-master.repo  = "suggest.git";
+  inputs.src-suggest-master.repo  = "suggest";
   inputs.src-suggest-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
